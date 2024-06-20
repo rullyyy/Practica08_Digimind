@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:orientation="vertical"
+    android:padding="4dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingVertical="20dp"
+        android:background="@drawable/fondo"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@color/navyblue"
+            android:text="Practice"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="17dp"
+            android:id="@+id/tv_days"
+            android:gravity="center"
+            android:text="Everyday"
+            android:textColor="@color/navyblue"
+            android:textSize="10sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="17dp"
+            android:id="@+id/tv_time"
+            android:gravity="center"
+            android:text="Any hour"
+            android:textColor="@color/navyblue"
+            android:textSize="8sp"/>
+
+
+    </LinearLayout>
+</LinearLayout>
