@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699007327374",
+    "project_id": "digimind-7a1b7",
+    "storage_bucket": "digimind-7a1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699007327374:android:b40b6b52b0fb551f4cbddf",
+        "android_client_info": {
+          "package_name": "luna.raul.mydigimind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQNpfVHK5fS_tlCtYtZungLVOX9r2Ws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
